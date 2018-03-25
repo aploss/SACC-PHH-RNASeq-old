@@ -1,0 +1,6 @@
+human_donor_treatmentHumanHBVgenes-HBV_vs_mock_d28	4
+human_donor_treatmentHumanHBVgenes-HBV_vs_mock_d8	61
+human_donor_treatmentHumanHBVgenes-coinf_vs_HBV_d28	0
+human_donor_treatmentHumanHBVgenes-coinf_vs_HBV_d8	67
+human_donor_treatmentHumanHBVgenes-coinf_vs_mock_d28	4
+human_donor_treatmentHumanHBVgenes-coinf_vs_mock_d8	53
